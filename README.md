@@ -1,8 +1,16 @@
-<div>
+<div align="center">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome To My GitHub!&center=true&size=30" />
   </div>
+  
+<div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    </picture>
+  </div>
   <img align="right" src="https://moe-counter.glitch.me/get/@:XYXMichael?theme=rule35">
-
+  
   ### **技术栈:**
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
@@ -26,14 +34,6 @@
   <div style="display: flex; justify-content: space-between;">
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=XYXMichael&show_icons=true&hide_border=true&line_height=21&theme=blueberry&card_width=550" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XYXMichael&hide_border=true&layout=donut&langs_count=8&text_color=73FF3B&icon_color=fff&theme=blueberry&card_width=550" />
-  </div>
-  
-  <div style="text-align: right;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    </picture>
   </div>
 </div>
 
